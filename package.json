@@ -1,0 +1,24 @@
+{
+  "name": "godin",
+  "version": "1.0.0",
+  "description": "ai-assisted trend collection and analysis ",
+  "main": "index.js",
+  "scripts": {
+    "dev":"webpack-dev-server --env.dev",
+    "build":"webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darrenangle/godin.git"
+  },
+  "author": "darren angle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darrenangle/godin/issues"
+  },
+  "homepage": "https://github.com/darrenangle/godin#readme",
+  "devDependencies": {
+    "webpack": "^3.0.0",
+    "webpack-dev-server": "^2.5.0"
+  }
+}
